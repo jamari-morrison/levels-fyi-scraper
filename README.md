@@ -1,7 +1,7 @@
 # levels-fyi-scraper
 Basic web scraper to grab levels.fyi data and put it into a csv
 
-# To use:
+# To use, you'll need to set the following variables at the bottom of the file
 
 ## 1.) Edit the URL to be the levels.fyi search page with your desired filters applied
 
