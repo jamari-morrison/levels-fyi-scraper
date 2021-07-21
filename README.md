@@ -9,7 +9,7 @@ Basic web scraper to grab levels.fyi data and put it into a csv
     example with 0yoe: https://www.levels.fyi/comp.html?track=Software%20Engineer&yoestart=0&yoeend=0
     
 ### 2.) Edit numpages to be the correct number of pages to scrape
-(if you enter a number larger, then the code will successfully write all the data but jsut error out at the end)
+(if you enter a number larger than the actual number of pages, then the code will successfully write all the data but jsut error out at the end)
     
 ### 3.) Edit the sleepTime to be how long the pages take to load for you
 
